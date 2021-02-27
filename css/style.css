@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  margin-top: 0;
+  background-color: aliceblue;
+  padding: 10px;
+  font-size: 42px;
+  color: brown;
+}
+
+.btn {
+  color: purple;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
+
+.preety {
+  font-size: 38px;
+  color: purple;
+}
