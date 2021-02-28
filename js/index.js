@@ -1,6 +1,7 @@
 const title = document.querySelector(".title");
 const originText = title.innerHTML;
     console.log("origin"+originText);
+    
 function handleClick(){
     //let currentTitle = title.classList;
     //currentTitle.toggle("btn");
